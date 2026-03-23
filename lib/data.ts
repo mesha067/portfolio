@@ -12,17 +12,17 @@ export const personalInfo = {
   tagline:
     "Passionate about protecting digital assets and building seamless user experiences.",
   intro:
-    "I am a 4rd year college student at PHINMA – University of Pangasinan, pursuing a Bachelor of Science in Information Technology major in Computer Security. I am driven to excel in cybersecurity and contribute to a safer digital world.",
+    "I am a 4th year college student at PHINMA – University of Pangasinan, pursuing a Bachelor of Science in Information Technology major in Computer Security. I am driven to excel in cybersecurity and contribute to a safer digital world.",
   email: "ange.cadimas.up@phinmaed.com",
   phone: "+63 930 636 0889",
   location: "Cabuloan, Urdaneta City, Pangasinan",
   facebook: "https://facebook.com/angelmeezhacadimas",
-  linkedin: "https://linkedin.com/in/angelmeezhacadimas",
+  linkedin: "https://ph.linkedin.com/in/angel-meezha-cadimas-98543b3b9",
   github: "https://github.com/mesha067",
 };
 
 export const aboutMe = {
-  bio: "I am a 3rd year college student at PHINMA – University of Pangasinan currently pursuing a Bachelor of Science in Information Technology major in Computer Security with a passion for protecting digital assets and a strong commitment to continuous learning. I am driven to excel in the field of cybersecurity and contribute to a safer digital world. I am actively seeking opportunities to expand my knowledge and experience.",
+  bio: "I am a 4th year college student at PHINMA – University of Pangasinan currently pursuing a Bachelor of Science in Information Technology major in Computer Security with a passion for protecting digital assets and a strong commitment to continuous learning. I am driven to excel in the field of cybersecurity and contribute to a safer digital world. I am actively seeking opportunities to expand my knowledge and experience.",
   interests: [
     "Cybersecurity",
     "Front-End Development",

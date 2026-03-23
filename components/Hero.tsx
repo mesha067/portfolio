@@ -124,7 +124,7 @@ export default function Hero() {
                 <span className="text-green-500">●</span> Available
               </div>
               <div className="absolute -top-3 -right-3 glass rounded-2xl px-3 py-2 shadow-lg text-xs font-semibold text-foreground">
-                4rd Year 🎓
+                4th Year 🎓
               </div>
             </div>
           </div>
