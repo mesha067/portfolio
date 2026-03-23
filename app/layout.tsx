@@ -10,7 +10,7 @@ const geistSans = Geist({
 export const metadata: Metadata = {
   title: "Angel Meezha Cadimas – Front-End Developer & UI/UX Designer",
   description:
-    "Digital portfolio of Angel Meezha Cadimas — a 3rd year BSIT student at PHINMA University of Pangasinan majoring in Computer Security. Front-End Developer and UI/UX Designer.",
+    "Digital portfolio of Angel Meezha Cadimas — a 4rd year BSIT student at PHINMA University of Pangasinan majoring in Computer Security. Front-End Developer and UI/UX Designer.",
   keywords: [
     "portfolio",
     "front-end developer",

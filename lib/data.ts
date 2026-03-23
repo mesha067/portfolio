@@ -12,7 +12,7 @@ export const personalInfo = {
   tagline:
     "Passionate about protecting digital assets and building seamless user experiences.",
   intro:
-    "I am a 3rd year college student at PHINMA – University of Pangasinan, pursuing a Bachelor of Science in Information Technology major in Computer Security. I am driven to excel in cybersecurity and contribute to a safer digital world.",
+    "I am a 4rd year college student at PHINMA – University of Pangasinan, pursuing a Bachelor of Science in Information Technology major in Computer Security. I am driven to excel in cybersecurity and contribute to a safer digital world.",
   email: "angelmeezhacadimas@gmail.com",
   phone: "+63 930 636 0889",
   location: "Cabuloan, Urdaneta City, Pangasinan",
